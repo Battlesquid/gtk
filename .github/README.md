@@ -2,6 +2,8 @@
     <img src="./assets/gtk.png">
 </div>
 
+<hr>
+
 A theme adapted from [phocus](https://github.com/phocus/gtk).
 
 ## **Installation**
