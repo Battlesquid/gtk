@@ -1,6 +1,6 @@
 PREFIX = /usr
 DESTDIR ?=
-INSTALL_DIR ?= $(DESTDIR)$(PREFIX)/share/themes/phocus
+INSTALL_DIR ?= $(DESTDIR)$(PREFIX)/share/themes/fool-moon-phocus
 
 all:
 	npm install && npm run build

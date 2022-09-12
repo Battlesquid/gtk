@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=phocus
-Comment=the phocus theme
+Name=fool-moon-phocus
+Comment=theme based off of phocus
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=phocus
-MetacityTheme=phocus
+GtkTheme=fool-moon-phocus
+MetacityTheme=fool-moon-phocus
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
