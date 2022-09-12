@@ -15,3 +15,7 @@ git clone https://github.com/Battlesquid/gtk.git && cd gtk/
 make
 sudo make install
 ```
+
+## **Usage**
+
+In your `~/.config/gtk-3.0/settings.ini`, change the value of `gtk-theme-name` to `fool-moon-phocus`.
