@@ -1,9 +1,7 @@
-PREFIX = /usr
-DESTDIR ?=
-INSTALL_DIR ?= $(DESTDIR)$(PREFIX)/share/themes/fool-moon-phocus
+INSTALL_DIR ?= $${HOME}/.local/share/themes/fool-moon-phocus
 
 all:
-	npm install && npm run build
+	sass scss:.
 
 install:
 	@install -v -d "$(INSTALL_DIR)"

@@ -8,12 +8,12 @@ A theme adapted from [phocus](https://github.com/phocus/gtk).
 
 ## **Installation**
 
-Install [npm](https://www.npmjs.com/). Then:
+Install [`sass`](https://sass-lang.com/install). On Arch Linux, you can run `pacman -S sass` Then:
 
 ```bash
 git clone https://github.com/Battlesquid/gtk.git && cd gtk/
 make
-sudo make install
+make install
 ```
 
 ## **Usage**
